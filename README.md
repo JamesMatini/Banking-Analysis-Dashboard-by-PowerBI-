@@ -84,10 +84,10 @@ Relationships: Properly linked through primary and foreign keys
 Data Types: Optimized for financial calculations and date operations
 
 ## Power BI Features
--- **Interactive Slicers**: Filter by time period, client demographics, banking products
--- **Conditional Formatting**: Visual indicators for risk levels and performance
--- **Dynamic Calculations**: Real-time metric updates based on filters
--- **Data Validation**: Ensured accuracy in financial calculations
+**Interactive Slicers**: Filter by time period, client demographics, banking products
+**Conditional Formatting**: Visual indicators for risk levels and performance
+**Dynamic Calculations**: Real-time metric updates based on filters
+**Data Validation**: Ensured accuracy in financial calculations
 
 🚀 Getting Started
 Prerequisites
@@ -102,7 +102,7 @@ Refresh data connections
 Validate calculations and relationships
 Explore dashboards through interactive filtering
 
-💼 Business Applications
+## 💼 Business Applications
 Risk Management
 Credit Approval: Assess client repayment likelihood based on profile
 
@@ -124,7 +124,7 @@ Resource Allocation: Focus efforts on profitable client segments
 
 Performance Tracking: Monitor key banking metrics over time
 
-🔍 Key Insights Provided
+## 🔍 Key Insights Provided
 Client Behavior Analysis
 Income distribution across client base
 
@@ -146,7 +146,7 @@ Product performance and cross-selling opportunities
 
 Market segment performance analysis
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 Advanced Analytics
 Machine learning integration for default prediction
 
